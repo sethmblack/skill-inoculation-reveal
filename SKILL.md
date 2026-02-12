@@ -1,11 +1,10 @@
 ---
 name: inoculation-reveal
-description: A skill for structuring the exposure of a media hoax for maximum educational
-  impact - transforming deception into media literacy.
+description: A skill for structuring the exposure of a media hoax for maximum educational impact - transforming deception into media literacy.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - inoculation-reveal
 - transformation
