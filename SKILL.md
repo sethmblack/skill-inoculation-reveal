@@ -4,7 +4,8 @@ description: A skill for structuring the exposure of a media hoax for maximum ed
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4234
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - inoculation-reveal
 - transformation
